@@ -1,0 +1,10 @@
+body {
+    background-image: url("20210102_155104.jpg");
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+h2 :hover {
+    background-color: aqua;
+}
